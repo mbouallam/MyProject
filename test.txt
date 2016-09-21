@@ -1,6 +1,3 @@
 hello Mohamed!
-<<<<<<< .merge_file_a11592
-hello Mohamed from 22!
-=======
 hello Mohamed from 2!
->>>>>>> .merge_file_a05848
+hello Mohamed from 22!
